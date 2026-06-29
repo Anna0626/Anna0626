@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=180&text=LeeSeul's%20GitHub&animation=&fontColor=000000&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=282832&height=150&text=LeeSeul%27s%20GitHub&fontColor=F76C92&fontSize=50" />
     </div>
+    <br>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍑 PROFILE 🍑​ </h2>  
       <a href="https://github.com/Anna0626" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
@@ -33,7 +34,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2> <div align= "center">   <img
     src="https://github-readme-stats.vercel.app/api?username=Anna0626&theme=dracula&show_icons=true"
     alt="GitHub Stats"
-  /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anna0626&layout=compact&langs_count=8&theme=dracula&show_icons=true" />
+  /><br><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anna0626&layout=compact&langs_count=8&theme=dracula&show_icons=true" />
 </div> 
     </div>
     <br><br><br>
